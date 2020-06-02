@@ -20,3 +20,20 @@ Opus is a codec for interactive speech and audio transmission over the Internet.
 ## awesome-speech-recognition-speech-synthesis-papers
 https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
+## DeepSpeech
+https://github.com/shichaog/DeepSpeech
+
+## deepspeech-server
+https://github.com/MainRo/deepspeech-server
+A testing server for a speech to text service based on mozilla deepspeech 
+
+## kenlm
+https://github.com/kpu/kenlm
+KenLM: Faster and Smaller Language Model Queries 
+
+## ML-KWS-for-MCU
+https://github.com/ARM-software/ML-KWS-for-MCU
+Keyword spotting on Arm Cortex-M Microcontrollers 
+
+
+
